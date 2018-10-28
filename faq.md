@@ -14,5 +14,5 @@ No. We suggest to create a new address / unique key when Tangram goes live.
 
 We're always happy to help with code or other questions you might have! Search our documentation, get in touch through our forum \(Coming Soon!\). 
 
-You can also chat live with other developers and community members in \#[g](https://www.discord.tangrams.io)eneral on [Discord](https://www.discord.tangrams.io).Tangram Discord - [https://discord.gg/B4RfSNQ](https://discord.gg/B4RfSNQ) \(\#cli-discussion\)
+You can also chat live with other developers and community members in \#general on [Discord](https://www.discord.tangrams.io).Tangram Discord - [https://discord.gg/B4RfSNQ](https://discord.gg/B4RfSNQ) \(\#cli-discussion\)
 
