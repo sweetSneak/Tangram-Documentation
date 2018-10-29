@@ -1,9 +1,3 @@
----
-description: >-
-  Installing the Tangram CLi Wallet is simple. Follow the guides below to get
-  started.
----
-
 # Installation
 
 {% page-ref page="mac.md" %}

@@ -4,7 +4,7 @@ description: Welcome to Tangram!
 
 # Documentation
 
-## Getting Started 
+## Getting Started
 
 Use this documentation to get familiar with the Tangram platform and explore its features.
 
@@ -24,7 +24,7 @@ Go through Tangrams forum discussions
 {% endtab %}
 
 {% tab title="API Discussion Board " %}
-Join our Tangram forum discussion board to discuss the latest API changes. 
+Join our Tangram forum discussion board to discuss the latest API changes.
 
 **Coming Soon!**
 {% endtab %}
@@ -38,7 +38,7 @@ Explore some sample projects built by the Tangram community.
 
 ## Questions?
 
-We're always happy to help with code or other questions you might have! Search our documentation, get in touch through our forum \(Coming Soon!\). 
+We're always happy to help with code or other questions you might have! Search our documentation, get in touch through our forum \(Coming Soon!\).
 
 You can also chat live with other developers and community members in \#general on [Discord](https://www.discord.tangrams.io).
 

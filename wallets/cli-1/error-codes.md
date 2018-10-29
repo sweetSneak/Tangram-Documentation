@@ -1,7 +1,3 @@
----
-description: Learn more about common error codes and how to resolve them.
----
-
 # Errors
 
 {% hint style="info" %}
@@ -273,5 +269,5 @@ Download Visual Studio manually:
 
 ## Questions?
 
-We're always happy to help with code or other questions you may have! Search our documentation, get in touch through our forum \(Coming Soon!\). You can also chat live with other developers and community members in the \#cli-discussion channel on [Discord](https://www.discord.tangrams.io).
+We're always happy to help with code or other questions you may have!  If this page did not help you to resolve your issue, please feel free to chat live with other developers and community members in the [\#cli-discussion channel on Discord **here**.](https://discord.gg/KBF5gCZ)
 

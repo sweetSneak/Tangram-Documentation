@@ -1,10 +1,3 @@
----
-description: >-
-  There are a list of operations which allow you to use the Tangram CLi wallet.
-  Each operation is an individual command which allows you to interact with a
-  node.
----
-
 # Commands
 
 ## Here are the available operation types in v1.0:

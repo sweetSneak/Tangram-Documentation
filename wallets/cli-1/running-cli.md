@@ -1,7 +1,3 @@
----
-description: Details information on the initial running of the Tangram CLi wallet
----
-
 # Initial Run
 
 ## Step 1: Running the Tangram CLi Wallet

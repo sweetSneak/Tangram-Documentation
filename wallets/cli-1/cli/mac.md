@@ -1,7 +1,3 @@
----
-description: Tangram CLi Wallet installation for macOS
----
-
 # Mac & Linux
 
 ## Step 1: Installation Prerequisites

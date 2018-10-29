@@ -1,9 +1,3 @@
----
-description: >-
-  Try the Tangram Light-wallet CLi. Create your first wallet, check your
-  balance, and more by following the steps below.
----
-
 # CLi
 
 ## Supported Platforms

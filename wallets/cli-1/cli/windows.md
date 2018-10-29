@@ -1,7 +1,3 @@
----
-description: Tangram CLi Wallet installation for Windows
----
-
 # Windows
 
 ## Step 1: Installation Prerequisites

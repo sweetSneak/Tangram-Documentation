@@ -1,7 +1,3 @@
----
-description: Details information on the operation of the Tangram CLi wallet
----
-
 # Operation
 
 ## How to start using the Tangram CLi wallet
