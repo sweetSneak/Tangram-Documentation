@@ -14,9 +14,9 @@ npm uninstall -g @tangrams.io/tangram-cli-wallet
 Delete  `.tangramcli` and `.kadencecli` from the home directory.
 
 ### Mac
-Delete @tangrams.io from .npm-global > lib > node_modules.
+Delete `@tangrams.io` from `.npm-global > lib > node_modules`
 ### Windows
-Delete @tangrams.io from C:\Users\(UserName)\AppData\Roaming\npm\note_modules@tangrams.io
+Delete `@tangrams.io` from `C:\Users\(UserName)\AppData\Roaming\npm\note_modules@tangrams.io`
 
 ## Step 3: Reinstall Tangram CLI wallet
-Now just reinstall with 'npm i -g @tangrams.io/tangram-cli-wallet' and you should be up and running with a new vault.
+Now just reinstall with `npm i -g @tangrams.io/tangram-cli-wallet` and you should be up and running with a new vault.
