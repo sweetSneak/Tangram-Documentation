@@ -18,4 +18,5 @@
 
 * [Tangram Platform](changelogs/tangram-platform.md)
 * [Tangram CLi Wallet](changelogs/tangram-cli-wallet.md)
+* [Tangram is an open-source project](changelogs/tangram-is-an-open-source-project.md)
 
