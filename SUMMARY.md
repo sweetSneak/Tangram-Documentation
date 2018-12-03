@@ -12,6 +12,7 @@
   * [Initial Run](wallets/cli-1/running-cli.md)
   * [Operation](wallets/cli-1/using-cli.md)
   * [Commands](wallets/cli-1/cli-commands.md)
+  * [Uninstallation](wallets/cli-1/uninstallation.md)
   * [Errors](wallets/cli-1/error-codes.md)
 
 ## Changelogs
