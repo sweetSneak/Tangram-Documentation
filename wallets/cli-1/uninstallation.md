@@ -1,7 +1,5 @@
 # Uninstallation
 
-With the v1.0 Typescript CLi wallet there is no recovery function if you lose your keys and cannot unlock your Vault.  A recovery function will obviously be implemented in the mainnet C\# wallet. At this time, the only option is to uninstall/reinstall the CLi wallet.
-
 ## Step 1: Uninstalling The Tangram CLi Wallet
 
 Launch the Terminal or Command Prompt, type `npm uninstall -g @tangrams.io/tangram-cli-wallet`  
@@ -13,9 +11,9 @@ Once the process has finished, close the Terminal or Command Prompt window.
 The Tangram CLi Wallet has now been uninstalled.
 {% endhint %}
 
-Although the wallet has been uninstalled, your Vault data remains.  If you reinstall the wallet at this point, your Vault will remain intact, with the same four keys as the initial install.  You also retain access to all your TGM.
+Although the wallet has been uninstalled, your Vault data remains.  If you reinstall the wallet at this point, your Vault will remain intact, with the same four keys as the initial install.  You will also retain access to all your TGM.
 
-Proceed to Step 2 if you wish to erase your Vault data and all your TGM.
+Proceed to Step 2 if you wish to erase your Vault data and completely uninstall the Tangram CLi wallet.
 
 ## Step 2: Delete Existing Vault Data
 
